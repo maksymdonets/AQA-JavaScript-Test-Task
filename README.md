@@ -1,3 +1,6 @@
+## Cypress_TestTask_2022
+- One of the test should be failed to trigger the report
+
 ## Requirements:
 - npm >= 9.4.0
 - node >= 16
