@@ -1,4 +1,4 @@
-## Cypress_TestTask_2022
+## Cypress test task
 - One of the test should be failed to trigger the report
 
 ## Requirements:
