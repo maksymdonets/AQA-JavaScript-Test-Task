@@ -7,13 +7,13 @@
 
 ## Installation:
 
-1. clone the project
-2. go to the root folder of the project
-3. install dependencies
+1. Clone the project
+2. Go to the root folder of the project
+3. Install dependencies
 
    `npm install`
 
-4. install cypress
+4. Install cypress
 
    `npm install cypress`
 
